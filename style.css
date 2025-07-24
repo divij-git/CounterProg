@@ -1,0 +1,22 @@
+body {
+	background-color: powderblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+#number {
+	font-size: 48px;
+	margin-bottom: 20px; 
+}
+
+.btn {
+	padding: 20px;
+	font-size: 15px;
+	border-radius: 25px;
+	background: #73AD21;
+	border: none;
+	cursor: pointer;
+}
